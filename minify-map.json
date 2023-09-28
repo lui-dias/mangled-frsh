@@ -1,0 +1,20 @@
+{
+    "px-2": "a",
+    "py-1": "b",
+    "border-gray-500": "c",
+    "border-2": "d",
+    "rounded": "e",
+    "bg-white": "f",
+    "hover:bg-gray-200": "g",
+    "transition-colors": "h",
+    "qwertyuiop": "i",
+    "flex": "j",
+    "gap-8": "k",
+    "py-6": "l",
+    "bg-blue-500": "m",
+    "hover:bg-red-500": "n",
+    "group": "o",
+    "group-hover:marker:text-6xl": "p",
+    "text-3xl": "q",
+    "text-yellow-500": "r"
+}
